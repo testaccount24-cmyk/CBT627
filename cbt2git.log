@@ -1,0 +1,11 @@
+2025-04-04 12:56:35.192294 - Received CBT.V508.FILE627.PDS from FILE627.XMI 
+2025-04-04 12:56:35.192954 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE627.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:56:35.193113 - Found $AUTOMAN.txt (text/plain) in CBT.V508.FILE627.PDS, moved to PDS/$AUTOMAN
+2025-04-04 12:56:35.193253 - Found @FILE627.txt (text/plain) in CBT.V508.FILE627.PDS, moved to PDS/@FILE627
+2025-04-04 12:56:35.193411 - Found AUTOMAN.xmi (application/xmit) in CBT.V508.FILE627.PDS, moved to PDS/AUTOMAN.xmi
+2025-04-04 12:56:35.210846 - Received DEV.AUTOMAN.LOAD from AUTOMAN.xmi 
+2025-04-04 12:56:35.211556 - Found AMCMCSCN.bin (application/octet-stream) in DEV.AUTOMAN.LOAD, moved to AUTOMAN/AMCMCSCN
+2025-04-04 12:56:35.211715 - Found AMTASKMN.bin (application/octet-stream) in DEV.AUTOMAN.LOAD, moved to AUTOMAN/AMTASKMN
+2025-04-04 12:56:35.211871 - Found AMWORK.bin (application/octet-stream) in DEV.AUTOMAN.LOAD, moved to AUTOMAN/AMWORK
+2025-04-04 12:56:35.212027 - Found AUTOMAN.bin (application/octet-stream) in DEV.AUTOMAN.LOAD, moved to AUTOMAN/AUTOMAN
+2025-04-04 12:56:35.212474 - Found AUTOMAN@.doc (application/msword) in CBT.V508.FILE627.PDS, moved to docs/AUTOMAN@.doc
